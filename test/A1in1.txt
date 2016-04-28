@@ -1,0 +1,24 @@
+show grid
+show time
+show population
+show industrial
+step 1 w
+sh ti
+sh pop
+sh ind
+step 47 w
+sh time
+sh pop
+sh ind
+zone res 7 6
+zone ind 3 32
+st 1 y
+sh time
+sh pop
+sh ind
+st 8 y
+sh time
+sh pop
+sh ind
+sh gr
+q

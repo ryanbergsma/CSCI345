@@ -1,0 +1,56 @@
+newgrid
+newgrid
+newgrid
+newgrid
+sh grid
+zone res 22 2
+zone res 25 2
+zone res 28 2
+zone res 31 2
+zone res 22 12
+zone res 25 12
+zone res 28 12
+zone res 31 12
+sh grid
+st 5 y
+sh grid
+sh pop
+sh ind
+zone ind 2 16
+zone ind 2 19
+zone ind 2 22
+zone ind 2 25
+step 10 y
+sh grid
+sh pop
+sh ind
+zone ind 6 30
+zone ind 9 30
+zone ind 12 30
+zone ind 15 30
+st 1 y
+sh pop
+sh ind
+st 10 y
+sh grid
+sh pop
+sh ind
+bulldoze 21 1 11 2
+st 1 y
+sh pop
+sh ind
+st 10 y
+sh grid
+sh pop
+sh ind
+bulldoze 21 11 11 2
+bulldoze 0 29 20 4
+step 1 y
+sh pop
+sh ind
+step 10 y
+sh pop
+sh ind
+sh grid
+q
+
