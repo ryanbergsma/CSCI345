@@ -2,6 +2,7 @@
  * is licensed under the Creative Commons Attribution 4.0 International
  * License. To view a copy of this license, visit
  * http://creativecommons.org/licenses/by/4.0/.
+ * changes by Ryan Bergsma 4/26/16
  */
 
 package cs345.model.cell;
